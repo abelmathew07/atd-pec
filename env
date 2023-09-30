@@ -1,0 +1,9 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyB4LNxKhQBsaUUFYZgizuCfuoJ_GjfPCeI",
+  authDomain: "attendance-alert-43fc0.firebaseapp.com",
+  projectId: "attendance-alert-43fc0",
+  storageBucket: "attendance-alert-43fc0.appspot.com",
+  messagingSenderId: "667442028833",
+  appId: "1:667442028833:web:7648a5d1342bda47065e60",
+  measurementId: "G-M1CN2PD4NR",
+};
